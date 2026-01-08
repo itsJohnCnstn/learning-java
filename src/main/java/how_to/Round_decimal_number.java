@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 
 /**
- *  Reference article: <a href="https://www.baeldung.com/java-round-decimal-number">baeldung/java-round-decimal-number</a>
+ * Reference article: <a href="https://www.baeldung.com/java-round-decimal-number">baeldung/java-round-decimal-number</a>
  */
 public class Round_decimal_number {
     public static void main(String[] args) {
